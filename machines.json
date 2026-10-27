@@ -1,0 +1,389 @@
+{
+  "Pecho": [
+    {
+      "id": "press-pecho",
+      "name": "Aperturas",
+      "type": "Pectrorales, Hombros.",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793132668/pecho_aperturas_2.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113576/aperturasw_pecho.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Pectoral mayor",
+        "Tríceps",
+        "Deltoides anterior"
+      ],
+      "exercises": [
+        {
+          "name": "Press de pecho sentado",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        },
+        {
+          "name": "Press con agarre neutro",
+          "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Ejercicio de empuje para trabajar principalmente el pecho.",
+      "instructions": [
+        "Ajusta el asiento para que las empuñaduras queden a la altura del pecho.",
+        "Empuja de forma controlada sin bloquear bruscamente los codos.",
+        "Regresa lentamente a la posición inicial."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": "Ejemplo de contenido: reemplaza las imágenes ilustrativas por las fotos reales de Villagym.",
+      "imageFit": "contain"
+    }
+  ],
+  "Espalda": [
+    {
+      "id": "jalon-pecho",
+      "name": "Pajaros",
+      "type": "Espalda, Brazos.",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793132775/espalda_pajaros_2.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113577/Pajaros.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85",
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Dorsal ancho",
+        "Bíceps",
+        "Trapecio"
+      ],
+      "exercises": [
+        {
+          "name": "Jalón al pecho",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Tirón vertical para trabajar la musculatura de la espalda.",
+      "instructions": [
+        "Sujeta la barra con agarre cómodo.",
+        "Lleva la barra hacia la parte alta del pecho sin balancearte.",
+        "Regresa lentamente controlando la polea."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": "Contenido de ejemplo; verifica que este equipo exista en el gimnasio."
+    },
+    {
+      "id": "remo-sentado",
+      "name": "Remo - Agarre estrecho",
+      "type": "Espalda, Brazos",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793132668/espalda_-_remo_agarre_estrecho_2.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113578/remo.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Dorsales",
+        "Romboides",
+        "Bíceps"
+      ],
+      "exercises": [
+        {
+          "name": "Remo sentado",
+          "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Tirón horizontal para espalda media y dorsales.",
+      "instructions": [
+        "Mantén el torso estable y la espalda neutra.",
+        "Lleva los codos hacia atrás sin encoger excesivamente los hombros.",
+        "Regresa despacio."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },
+    {
+      "id": "remo-cable",
+      "name": "Remo con cable",
+      "type": "Poleas",
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Dorsales",
+        "Romboides",
+        "Bíceps"
+      ],
+      "exercises": [
+        {
+          "name": "Remo sentado en polea",
+          "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Variante de remo con resistencia de cable.",
+      "instructions": [
+        "Siéntate estable y toma el accesorio.",
+        "Tira hacia el torso sin redondear la espalda.",
+        "Vuelve lentamente al inicio."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },
+    {
+      "id": "hiperextension",
+      "name": "Banco de hiperextensión",
+      "type": "Zona lumbar",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Erectores espinales",
+        "Glúteos",
+        "Isquiotibiales"
+      ],
+      "exercises": [
+        {
+          "name": "Extensión lumbar",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Equipo para realizar extensiones controladas de cadera y tronco.",
+      "instructions": [
+        "Ajusta los apoyos a tu altura.",
+        "Desciende y sube con control, sin hiperextender la zona lumbar."
+      ],
+      "capacity": "Peso corporal",
+      "notes": ""
+    },{
+      "id": "remo-sentado",
+      "name": "Remo sentado",
+      "type": "Máquina guiada",
+      "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Dorsales",
+        "Romboides",
+        "Bíceps"
+      ],
+      "exercises": [
+        {
+          "name": "Remo sentado",
+          "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Tirón horizontal para espalda media y dorsales.",
+      "instructions": [
+        "Mantén el torso estable y la espalda neutra.",
+        "Lleva los codos hacia atrás sin encoger excesivamente los hombros.",
+        "Regresa despacio."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }
+  ],
+  "Hombros": [
+    {
+      "id": "press-hombros",
+      "name": "Press de hombros",
+      "type": "Máquina guiada",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Deltoides",
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "name": "Press de hombros sentado",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Movimiento de empuje vertical para hombros.",
+      "instructions": [
+        "Ajusta el asiento y el respaldo.",
+        "Empuja sin arquear excesivamente la espalda.",
+        "Baja con control."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }
+  ],
+  "Brazos": [
+    {
+      "id": "polea-triceps",
+      "name": "Polea de tríceps",
+      "type": "Polea alta",
+      "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Tríceps"
+      ],
+      "exercises": [
+        {
+          "name": "Extensión de tríceps",
+          "image": "https://images.unsplash.com/photo-1581009146145-b5ef050c2e1e?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Ejercicio de extensión de codos con cable.",
+      "instructions": [
+        "Mantén los codos cerca del torso.",
+        "Extiende los brazos sin balancearte.",
+        "Regresa controladamente."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }
+  ],
+  "Piernas": [
+    {
+      "id": "prensa-piernas",
+      "name": "Prensa de piernas",
+      "type": "Tren inferior",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Cuádriceps",
+        "Glúteos",
+        "Isquiotibiales"
+      ],
+      "exercises": [
+        {
+          "name": "Prensa de piernas",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Máquina guiada para trabajar el tren inferior.",
+      "instructions": [
+        "Apoya la espalda en el respaldo.",
+        "Desciende solo hasta un rango cómodo.",
+        "Empuja sin bloquear bruscamente las rodillas."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    },
+    {
+      "id": "curl-femoral",
+      "name": "Curl femoral",
+      "type": "Isquiotibiales",
+      "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Isquiotibiales"
+      ],
+      "exercises": [
+        {
+          "name": "Curl femoral",
+          "image": "https://images.unsplash.com/photo-1583454110551-21f2fa2afe61?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Flexión de rodilla para los músculos posteriores del muslo.",
+      "instructions": [
+        "Ajusta el rodillo a la altura correcta.",
+        "Flexiona las rodillas sin despegar la cadera.",
+        "Vuelve lentamente."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }
+  ],
+  "Abdomen": [
+    {
+      "id": "maquina-abdominal",
+      "name": "Máquina abdominal",
+      "type": "Core",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793132667/ans_core_2.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113576/Abdominal.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Recto abdominal",
+        "Oblicuos"
+      ],
+      "exercises": [
+        {
+          "name": "Crunch en máquina",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Trabajo de flexión controlada del tronco.",
+      "instructions": [
+        "Ajusta el asiento y los apoyos.",
+        "Acerca el torso sin tirar del cuello.",
+        "Regresa lentamente."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }, {
+      "id": "maquina-abdominal",
+      "name": "Torsión de tronco",
+      "type": "Core",
+      "image": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793132655/abs_giro_2.png",
+      "detailImage": "https://res.cloudinary.com/cmgffwxu/image/upload/v1793113578/tronco-rotacion.jpg",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Recto abdominal",
+        "Oblicuos"
+      ],
+      "exercises": [
+        {
+          "name": "Crunch en máquina",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Trabajo de flexión controlada del tronco.",
+      "instructions": [
+        "Ajusta el asiento y los apoyos.",
+        "Acerca el torso sin tirar del cuello.",
+        "Regresa lentamente."
+      ],
+      "capacity": "Peso ajustable",
+      "notes": ""
+    }
+  ],
+  "Cardio": [
+    {
+      "id": "cinta-correr",
+      "name": "Cinta de correr",
+      "type": "Cardio",
+      "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85",
+      "detailImage": "",
+      "gallery": [
+        "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=1200&q=85"
+      ],
+      "muscles": [
+        "Sistema cardiovascular",
+        "Piernas"
+      ],
+      "exercises": [
+        {
+          "name": "Caminar o correr",
+          "image": "https://images.unsplash.com/photo-1534438327276-14e5300c3a48?auto=format&fit=crop&w=900&q=85"
+        }
+      ],
+      "description": "Equipo cardiovascular para caminar o correr.",
+      "instructions": [
+        "Empieza a velocidad baja.",
+        "Usa la pinza de seguridad si está disponible.",
+        "Aumenta la intensidad gradualmente."
+      ],
+      "capacity": "Velocidad e inclinación ajustables",
+      "notes": ""
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Mensual",
+    "price": "300",
+    "suffix": "Bs",
+    "detail": "Ideal para empezar"
+  },
+  {
+    "name": "3 meses",
+    "price": "780",
+    "suffix": "Bs",
+    "detail": "Comprométete con tu meta",
+    "featured": true
+  },
+  {
+    "name": "6 meses",
+    "price": "1500",
+    "suffix": "Bs",
+    "detail": "Entrena a largo plazo"
+  },
+  {
+    "name": "1 sesión",
+    "price": "50",
+    "suffix": "Bs",
+    "detail": "Ven a probar"
+  },
+  {
+    "name": "12 sesiones",
+    "price": "220",
+    "suffix": "Bs",
+    "detail": "En un mes"
+  },
+  {
+    "name": "Mes cumpleañero",
+    "price": "210",
+    "suffix": "Bs",
+    "detail": "Consulta condiciones"
+  }
+]
